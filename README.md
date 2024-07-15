@@ -1,20 +1,20 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW X5 MD </h1>
+ <h1 align="center"> Carl-M </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗜𝗕𝗥𝗔𝗛𝗜𝗠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+Carl+𝗠+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+CARL)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center">  -CarlM💥, A Simple WhatsApp user BOT, Created by CarlTech.
 </p>
 <p align="center">
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SESSION SITE 
 
@@ -22,9 +22,9 @@
 <a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
-## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+## Support 🦁🦁🦁
+##  kindly Follow my channel for updates
+<a href="https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
+   <a href=https://wa.link/c9qf2z">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -45,7 +45,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Carl165/Carl-M/fork)
 
 2, TAP ON IBRAHIM TECH APP DOWN THERE
 
